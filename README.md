@@ -20,7 +20,7 @@ To get started with the RAG Application, follow these simple steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/aishwaryaandhale96/RAG_Application_Chatbot.git
+   git clone https://github.com/Parthpawer/Chatbot-RAG-Application-.git
    ```
 2. **Navigate to the project directory**:
    ```bash
